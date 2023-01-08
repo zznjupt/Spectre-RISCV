@@ -1,3 +1,18 @@
+# A Study of MCU-level Attacks and Defenses on Power Distribution Fusion Terminals
+
+The work based on this code has been published in CIRED Workshop-Shanghai 2022， A Study of MCU-level Attacks and Defenses on Power Distribution Fusion Terminals.
+
+## Usage
+
+```bash
+./$ make # This will build .dump and .riscv(bin) files for analysize or installed on Linux OS to run the attacks.
+```
+
+
+
+
+## Appendix
+```
 BOOM Parameters
 
 [C0] ======BOOM Tile 0 Params======
@@ -211,3 +226,4 @@ Generated Address Map
          c000000 - 10000000 ARW   interrupt-controller@c000000
         60000000 - 80000000  RWX  mmio-port-axi4@60000000
         80000000 - 100000000  RWXC memory@80000000
+        ```
