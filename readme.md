@@ -2,7 +2,7 @@
 
 The work based on this code has been published in CIRED Workshop-Shanghai 2022， A Study of MCU-level Attacks and Defenses on Power Distribution Fusion Terminals.
 
-## Usage
+## 使用说明
 
 ```bash
 ./$ make # This will build .dump and .riscv(bin) files for analysize or installed on Linux OS to run the attacks.
